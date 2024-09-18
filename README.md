@@ -9,9 +9,11 @@
 <p align="center">Développeur freelance depuis 2024, je suis passionné par la création de solutions web innovantes. 🚀</p>
 
 <p align="center">Mon Site: <a href="https://www.davidwebprojects.fr/" target="_blank">https://www.davidwebprojects.fr/</a></p>
+<p align="center">
  <a href="https://portfolio.davidwebprojects.fr/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
+</p>
 
 ---
 
